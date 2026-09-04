@@ -1,0 +1,10 @@
+{
+  "entry": "main.typ",
+  "metadata": {
+    "author": "Manus AI",
+    "subtitle": "Detailed project report",
+    "title": "Northstar Study — Student Performance Prediction Dashboard"
+  },
+  "mode": "report",
+  "theme": "report-theme.typ"
+}

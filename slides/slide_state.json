@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "title": "See the signal. Plan the support.",
+    "created": 1788503761.86,
+    "last_updated": 1788505179.489,
+    "total_slides": 10
+  },
+  "slides": [
+    {
+      "id": "intro",
+      "state": "edited",
+      "pageNum": 1
+    },
+    {
+      "id": "concept",
+      "state": "edited",
+      "pageNum": 2
+    },
+    {
+      "id": "dashboard_overview",
+      "state": "edited",
+      "pageNum": 3
+    },
+    {
+      "id": "algorithm",
+      "state": "edited",
+      "pageNum": 4
+    },
+    {
+      "id": "model_flow",
+      "state": "edited",
+      "pageNum": 5
+    },
+    {
+      "id": "feature_roles",
+      "state": "edited",
+      "pageNum": 6
+    },
+    {
+      "id": "prediction_example",
+      "state": "edited",
+      "pageNum": 7
+    },
+    {
+      "id": "traversal_demo",
+      "state": "edited",
+      "pageNum": 8
+    },
+    {
+      "id": "design_system",
+      "state": "edited",
+      "pageNum": 9
+    },
+    {
+      "id": "conclusion",
+      "state": "edited",
+      "pageNum": 10
+    }
+  ],
+  "outline": [
+    {
+      "id": "intro",
+      "title": "See the signal. Plan the support.",
+      "summary": "Introduction to Northstar Study, an editorial analytics dashboard for student performance.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "concept",
+      "title": "A clear starting point for one learner",
+      "summary": "Explaining the goal of turning scattered signals into a useful, human-readable conversation.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "dashboard_overview",
+      "title": "Dashboard at a glance",
+      "summary": "Simplified layout overview of the dashboard's workspace, rail, and analysis canvas.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "algorithm",
+      "title": "One transparent prediction algorithm",
+      "summary": "Technical breakdown of the weighted-score model and interpretation bands.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "model_flow",
+      "title": "How one prediction is produced",
+      "summary": "End-to-end flow from student inputs through normalization, weighted scoring, projected percentage, and interpretation band.",
+      "image_plan": "No external image required; use editable HTML/CSS flow blocks in the established website theme."
+    },
+    {
+      "id": "feature_roles",
+      "title": "What each signal contributes",
+      "summary": "Explain why attendance, assignments, study rhythm, and current average are used and how each weight affects the final score.",
+      "image_plan": "No external image required; use editable HTML/CSS feature bars and a compact weighting table in the established website theme."
+    },
+    {
+      "id": "prediction_example",
+      "title": "From inputs to an actionable signal",
+      "summary": "A practical example showing how specific student inputs translate into a projected outcome.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "traversal_demo",
+      "title": "BFS and DFS make the path visible",
+      "summary": "Comparison of BFS and DFS traversals as metaphors for exploring student support pathways.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "design_system",
+      "title": "Quiet Signal design language",
+      "summary": "Overview of the visual identity: warm paper, navy ink, cobalt signals, and editorial type.",
+      "image_plan": "Use a suitable image if needed"
+    },
+    {
+      "id": "conclusion",
+      "title": "Small signal, big shift.",
+      "summary": "Summary of the MVP and next steps for the platform, including the website link.",
+      "image_plan": "Use a suitable image if needed"
+    }
+  ]
+}

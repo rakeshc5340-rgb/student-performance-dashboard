@@ -1,0 +1,11 @@
+{
+  "task_kind": "new-document",
+  "output": "pdf",
+  "signals": ["report"],
+  "hard_constraints": ["12-14 pages", "include website screenshots/snips", "include detailed technical explanation"],
+  "content_features": {
+    "code_blocks": 4,
+    "defined_terms": 8,
+    "portrait_images": 0
+  }
+}
